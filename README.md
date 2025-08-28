@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a Senior Software Engineer with 5+ years of professional experience in **full-stack development** and a strong interest in **software architecture, scalability, and emerging technologies**.  
+I’m a Senior Engineer with 5+ years of professional experience in **full-stack development** and a strong interest in **software architecture, scalability, and emerging technologies**.  
 I enjoy solving complex technical problems, leading teams, and building reliable, scalable solutions that add real business value.  
 
 
