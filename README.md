@@ -3,21 +3,21 @@
 I’m a Senior Software Engineer with 5+ years of professional experience in **full-stack development** and a strong interest in **software architecture, scalability, and emerging technologies**.  
 I enjoy solving complex technical problems, leading teams, and building reliable, scalable solutions that add real business value.  
 
----
 
+---
+## 👯 I’m looking to collaborate on
+- Research and development projects in **AI/ML, Generative AI, and blockchain**.  
+- Open-source projects related to **full-stack development, scalability, and cloud-native systems**.  
+<!--
 ## 🌱 I’m currently learning
 - **Hyperledger** and blockchain technologies.  
 - **Spring Boot** and scalable backend design patterns.  
 - Advanced concepts in **Generative AI and distributed systems**.  
 
-## 👯 I’m looking to collaborate on
-- Research and development projects in **AI/ML, Generative AI, and blockchain**.  
-- Open-source projects related to **full-stack development, scalability, and cloud-native systems**.  
-
 ## 🤔 I’m looking for help with
 - Best practices in **scaling blockchain applications** for production use.  
 - Optimizing **Generative AI architectures** for performance and efficiency.  
-
+-->
 ---
 
 ## 💻 Tech Stack  
